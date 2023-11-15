@@ -14,7 +14,6 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>golden-lotus-common</module>
-        <module>golden-lotus-server</module>
         <module>golden-lotus-user-search</module>
         <module>golden-lotus-user-address</module>
         <module>golden-lotus-user-order</module>
